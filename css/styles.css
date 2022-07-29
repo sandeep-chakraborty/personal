@@ -1,0 +1,140 @@
+body{
+    text-align: center;
+margin: auto 0 auto 0;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.Pro{
+    text-decoration: underline;
+}
+.Top-Container{
+    background-color: #FF8FB1;
+}
+.Bottom-Cloud {
+    margin: -76px;
+    position: absolute;
+    margin-left: -172px;
+}
+
+.Mountain{
+    width: 50%;
+}
+.Top-Cloud {
+    position: relative;
+    margin: 10px;
+    margin-left: 452px;
+}
+h1{
+    color: #B270A2;
+        font-size:562.5%;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-size:2.5rem ;
+padding-bottom: 10px;
+    color: #B270A2;
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    color: #B270A2;
+    font-family: 'Montserrat', sans-serif;
+}
+.Intro{
+    width: 30%;
+    margin: auto;
+}
+.btn {
+    background: #FF8FB1;
+    background-image: -webkit-linear-gradient(top, #FF8FB1, #9e5a8f);
+    background-image: -moz-linear-gradient(top, #FF8FB1, #9e5a8f);
+    background-image: -ms-linear-gradient(top, #FF8FB1, #9e5a8f);
+    background-image: -o-linear-gradient(top, #FF8FB1, #9e5a8f);
+    background-image: linear-gradient(to bottom, #FF8FB1, #9e5a8f);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 21px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #e30048;
+    background-image: -webkit-linear-gradient(top, #e30048, #e3a6d6);
+    background-image: -moz-linear-gradient(top, #e30048, #e3a6d6);
+    background-image: -ms-linear-gradient(top, #e30048, #e3a6d6);
+    background-image: -o-linear-gradient(top, #e30048, #e3a6d6);
+    background-image: linear-gradient(to bottom, #e30048, #e3a6d6);
+    text-decoration: none;
+  }
+  div {
+    display: block;
+}
+.Middle-Container {
+    margin: 100px 0;
+}
+.Bottom-Container{
+    background-color: #B270A2;
+padding: 50px 0px 20px;
+
+}
+.copyriight {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+a {
+    color: #eaa8da;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto ;
+    text-align: left;
+    
+}
+.PC{
+    width:140px;
+    float: left;
+    margin-right: 30px;
+}
+.coding{
+    width: 125px;
+    float: right;
+    margin-left: 30px;
+}
+.studies{
+    width: 115px;
+    float: left;
+    margin-right: 30px; 
+}
+.Anime{
+ height: 150px;
+    float: right;
+    margin-left: 30px; 
+}
+.coder{
+    width: 210px;
+}
+.Get{
+    position: relative;
+    margin: 1px;
+
+}
+hr{
+    border: dotted #FF8FB1 7px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+      
+  }
