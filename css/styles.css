@@ -2,7 +2,7 @@ body {
   text-align: center;
   margin: auto 0 auto 0;
   color: #40514e;
-  text-align: center ;
+  text-align: center !important;
   font-family: "Merriweather", serif;
 }
 
@@ -87,14 +87,14 @@ div {
   padding: 20px 0;
 }
 a {
-  color: #eaa8da ;
-  font-family: "Montserrat", sans-serif ;
-  margin: 10px 20px ;
+  color: #eaa8da !important;
+  font-family: "Montserrat", sans-serif !important;
+  margin: 10px 20px !important;
   text-decoration: none;
 }
 a:hover {
-  color: #ffffff;
-  text-decoration: underline ;
+  color: #ffffff !important;
+  text-decoration: underline !important;
 }
 .skill-row {
   width: 50%;
@@ -140,9 +140,9 @@ a:hover {
   margin: 1px;
 }
 hr {
-  border: dotted #ff8fb1 7px ;
-  border-bottom: none;
-  width: 4% ;
-  width: 4% ;
+  border: dotted #ff8fb1 7px !important;
+  border-bottom: none !important;
+  width: 4% !important;
+  width: 4% !important;
   margin: 100px auto ;
 }
