@@ -26,6 +26,9 @@ body {
   margin: 10px;
   margin-left: 452px;
 }
+@media (max-width: 400px) {
+       .Top-Cloud{
+         display:none;
 h1 {
   color: #b270a2;
   font-size: 562.5%;
